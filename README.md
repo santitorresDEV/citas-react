@@ -1,6 +1,9 @@
 # FIRST PROYECT IN REACT
 
-In this proyect I use VITE + REACT
 
-- Tailwind CSS
-- Local Storage
+Technologies Used
+
+React
+Vite
+Tailwind CSS
+Local Storage (for data persistence)
